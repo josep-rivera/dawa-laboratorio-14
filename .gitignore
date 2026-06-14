@@ -1,0 +1,22 @@
+# tooling
+.atl/
+
+# env files (never commit secrets)
+.env
+.env.local
+.env*.local
+
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
